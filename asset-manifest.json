@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gorankami.github.io/cra-typescript-gh-pages/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/gorankami.github.io/cra-typescript-gh-pages/static/js/main.4d68b30d.chunk.js",
+    "main.js.map": "/gorankami.github.io/cra-typescript-gh-pages/static/js/main.4d68b30d.chunk.js.map",
+    "runtime-main.js": "/gorankami.github.io/cra-typescript-gh-pages/static/js/runtime-main.c84301f9.js",
+    "runtime-main.js.map": "/gorankami.github.io/cra-typescript-gh-pages/static/js/runtime-main.c84301f9.js.map",
+    "static/js/2.608b376d.chunk.js": "/gorankami.github.io/cra-typescript-gh-pages/static/js/2.608b376d.chunk.js",
+    "static/js/2.608b376d.chunk.js.map": "/gorankami.github.io/cra-typescript-gh-pages/static/js/2.608b376d.chunk.js.map",
+    "index.html": "/gorankami.github.io/cra-typescript-gh-pages/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/gorankami.github.io/cra-typescript-gh-pages/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.608b376d.chunk.js.LICENSE.txt": "/gorankami.github.io/cra-typescript-gh-pages/static/js/2.608b376d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c84301f9.js",
+    "static/js/2.608b376d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4d68b30d.chunk.js"
+  ]
+}
